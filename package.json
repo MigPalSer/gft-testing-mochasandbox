@@ -4,7 +4,7 @@
   "description": "sandbox para mocha",
   "main": "index.js",
   "scripts": {
-    "test": "testc"
+    "test": "mocha"
   },
   "author": "migpalser",
   "license": "ISC",
